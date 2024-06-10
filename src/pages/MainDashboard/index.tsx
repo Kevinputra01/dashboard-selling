@@ -71,7 +71,7 @@ function MainDashboard() {
   };
 
   useEffect(() => {
-    getAlertSummary(null, null, null);
+    getAlertSummary(null, pickedDates[0], pickedDates[1]);
   }, []);
 
   const getNumberUnit = function (num: number, round = 2) {
