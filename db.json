@@ -1,0 +1,326 @@
+{
+  "sales": [
+    {
+      "id": "6666567b065420f4bd052bb3",
+      "product": "Product F",
+      "date": "2024-05-08",
+      "sales": 756,
+      "revenue": 3632
+    },
+    {
+      "id": "6666567b92ad3f07ae62f120",
+      "product": "Product C",
+      "date": "2024-05-02",
+      "sales": 457,
+      "revenue": 89487
+    },
+    {
+      "id": "6666567bf16647bae65f8479",
+      "product": "Product E",
+      "date": "2024-05-02",
+      "sales": 406,
+      "revenue": 2294
+    },
+    {
+      "id": "6666567b279c8bf315ddf1f4",
+      "product": "Product A",
+      "date": "2024-05-05",
+      "sales": 815,
+      "revenue": 6936
+    },
+    {
+      "id": "6666567bb0bfb312a602031a",
+      "product": "Product C",
+      "date": "2024-05-04",
+      "sales": 569,
+      "revenue": 28622
+    },
+    {
+      "id": "6666567bdb127ad541aabc08",
+      "product": "Product A",
+      "date": "2024-05-06",
+      "sales": 349,
+      "revenue": 98167
+    },
+    {
+      "id": "6666567b99db5c7bebc4fda0",
+      "product": "Product F",
+      "date": "2024-05-02",
+      "sales": 135,
+      "revenue": 50202
+    },
+    {
+      "id": "6666567bd2f8f2394348f19b",
+      "product": "Product E",
+      "date": "2024-05-06",
+      "sales": 281,
+      "revenue": 55013
+    },
+    {
+      "id": "6666567bac689fb83bb06720",
+      "product": "Product C",
+      "date": "2024-05-03",
+      "sales": 845,
+      "revenue": 30070
+    },
+    {
+      "id": "6666567b1e82673657c91565",
+      "product": "Product F",
+      "date": "2024-05-08",
+      "sales": 585,
+      "revenue": 42666
+    },
+    {
+      "id": "6666567b6dd4189819fa6487",
+      "product": "Product D",
+      "date": "2024-05-02",
+      "sales": 72,
+      "revenue": 95171
+    },
+    {
+      "id": "6666567b37e384116d471ecc",
+      "product": "Product D",
+      "date": "2024-05-02",
+      "sales": 107,
+      "revenue": 19399
+    },
+    {
+      "id": "6666567bbe9b2caa075f93cc",
+      "product": "Product F",
+      "date": "2024-05-08",
+      "sales": 885,
+      "revenue": 13074
+    },
+    {
+      "id": "6666567bb5e51b891f022ae3",
+      "product": "Product F",
+      "date": "2024-05-06",
+      "sales": 934,
+      "revenue": 68478
+    },
+    {
+      "id": "6666567b8cda1a9fef3356fa",
+      "product": "Product B",
+      "date": "2024-05-08",
+      "sales": 602,
+      "revenue": 46196
+    },
+    {
+      "id": "6666567bc58ad892f7101743",
+      "product": "Product F",
+      "date": "2024-05-08",
+      "sales": 932,
+      "revenue": 57029
+    },
+    {
+      "id": "6666567bf748c3faf1857e27",
+      "product": "Product D",
+      "date": "2024-05-09",
+      "sales": 230,
+      "revenue": 48023
+    },
+    {
+      "id": "6666567b475c64493dd43c2e",
+      "product": "Product E",
+      "date": "2024-05-09",
+      "sales": 403,
+      "revenue": 39977
+    },
+    {
+      "id": "6666567b042bd2d4f0e2a530",
+      "product": "Product E",
+      "date": "2024-05-03",
+      "sales": 950,
+      "revenue": 5343
+    },
+    {
+      "id": "6666567b2e6888f9770e5537",
+      "product": "Product A",
+      "date": "2024-05-06",
+      "sales": 857,
+      "revenue": 71306
+    },
+    {
+      "id": "6666567be5c07e33feb6e005",
+      "product": "Product B",
+      "date": "2024-05-03",
+      "sales": 137,
+      "revenue": 97071
+    },
+    {
+      "id": "6666567bd647983dcac0587f",
+      "product": "Product B",
+      "date": "2024-05-04",
+      "sales": 447,
+      "revenue": 80973
+    },
+    {
+      "id": "6666567b92fd503fe4e4a870",
+      "product": "Product F",
+      "date": "2024-05-07",
+      "sales": 45,
+      "revenue": 11721
+    },
+    {
+      "id": "6666567beea35862bcf302f1",
+      "product": "Product A",
+      "date": "2024-05-04",
+      "sales": 769,
+      "revenue": 53823
+    },
+    {
+      "id": "6666567b2d9802957f28e883",
+      "product": "Product C",
+      "date": "2024-05-08",
+      "sales": 439,
+      "revenue": 17363
+    },
+    {
+      "id": "6666567b5b6462858d6a3fa7",
+      "product": "Product E",
+      "date": "2024-05-02",
+      "sales": 867,
+      "revenue": 47634
+    },
+    {
+      "id": "6666567bf0a6887a809de007",
+      "product": "Product C",
+      "date": "2024-05-01",
+      "sales": 464,
+      "revenue": 69627
+    },
+    {
+      "id": "6666567b1e750e285c3dde12",
+      "product": "Product A",
+      "date": "2024-05-02",
+      "sales": 36,
+      "revenue": 93276
+    },
+    {
+      "id": "6666567b6d177e1007fc31c1",
+      "product": "Product A",
+      "date": "2024-05-02",
+      "sales": 815,
+      "revenue": 57912
+    },
+    {
+      "id": "6666567bb14f49698382f55f",
+      "product": "Product E",
+      "date": "2024-05-05",
+      "sales": 978,
+      "revenue": 69151
+    },
+    {
+      "id": "6666567b97e35e1fc66cae36",
+      "product": "Product D",
+      "date": "2024-05-08",
+      "sales": 949,
+      "revenue": 65971
+    },
+    {
+      "id": "6666567b0dccf527db14d892",
+      "product": "Product C",
+      "date": "2024-05-07",
+      "sales": 648,
+      "revenue": 10075
+    },
+    {
+      "id": "6666567ba7bfed7a35801863",
+      "product": "Product D",
+      "date": "2024-05-04",
+      "sales": 556,
+      "revenue": 79841
+    },
+    {
+      "id": "6666567bf345cb99d4ec03c3",
+      "product": "Product C",
+      "date": "2024-05-02",
+      "sales": 33,
+      "revenue": 73561
+    },
+    {
+      "id": "6666567b70e56219c109f2d1",
+      "product": "Product D",
+      "date": "2024-05-02",
+      "sales": 824,
+      "revenue": 20302
+    },
+    {
+      "id": "6666567b41dd7c21db77f460",
+      "product": "Product C",
+      "date": "2024-05-01",
+      "sales": 48,
+      "revenue": 35399
+    },
+    {
+      "id": "6666567b6478b2479df72ee7",
+      "product": "Product A",
+      "date": "2024-05-04",
+      "sales": 898,
+      "revenue": 65768
+    },
+    {
+      "id": "6666567b54f3f6b90a7e3932",
+      "product": "Product A",
+      "date": "2024-05-03",
+      "sales": 853,
+      "revenue": 90365
+    },
+    {
+      "id": "6666567b39757ebd05c1c35a",
+      "product": "Product F",
+      "date": "2024-05-05",
+      "sales": 256,
+      "revenue": 91365
+    },
+    {
+      "id": "6666567b9f8a01ed9477707b",
+      "product": "Product F",
+      "date": "2024-05-04",
+      "sales": 377,
+      "revenue": 64124
+    },
+    {
+      "id": "6666567bdbdb16aaefb46365",
+      "product": "Product D",
+      "date": "2024-05-04",
+      "sales": 924,
+      "revenue": 9808
+    },
+    {
+      "id": "6666567b31f49d75b0071bb8",
+      "product": "Product B",
+      "date": "2024-05-07",
+      "sales": 947,
+      "revenue": 51676
+    },
+    {
+      "id": "6666567be1c606d1d4d19c74",
+      "product": "Product A",
+      "date": "2024-05-05",
+      "sales": 835,
+      "revenue": 95221
+    },
+    {
+      "id": "6666567bc46b48cd9ea4103e",
+      "product": "Product B",
+      "date": "2024-05-04",
+      "sales": 944,
+      "revenue": 72690
+    },
+    {
+      "id": "6666567b62595eb830629420",
+      "product": "Product D",
+      "date": "2024-05-02",
+      "sales": 867,
+      "revenue": 53171
+    },
+    {
+      "id": "6666567be88a2a8d5c7cdb1d",
+      "product": "Product B",
+      "date": "2024-05-06",
+      "sales": 600,
+      "revenue": 79643
+    }
+  ]
+}
